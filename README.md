@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->

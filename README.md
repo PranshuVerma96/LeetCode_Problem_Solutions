@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -65,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

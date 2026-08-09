@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

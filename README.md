@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation

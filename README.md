@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0216-combination-sum-iii) |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -149,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

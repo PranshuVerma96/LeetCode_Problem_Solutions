@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0443-string-compression) |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

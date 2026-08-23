@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

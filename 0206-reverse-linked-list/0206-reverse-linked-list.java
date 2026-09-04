@@ -9,19 +9,40 @@
  * }
  */
 class Solution {
+    public ListNode solve(ListNode prev, ListNode curr){
+        // base case 
+        if(curr == null){
+            return prev;
+        }
+        // ek case me karuga 
+        // baki recursion 
+        ListNode forward = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = forward;
+
+        // recursive call
+
+        ListNode ans = solve(prev,curr);
+        return ans;
+    }
     public ListNode reverseList(ListNode head) {
+        // ListNode prev = null;
+        // ListNode curr = head;
+
+        // while(curr != null){
+        //     ListNode forward = curr.next;
+        //     curr.next = prev;
+        //     prev= curr;
+        //     curr = forward;
+        // }
+
+        // // updated head 
+        // return prev;
         ListNode prev = null;
         ListNode curr = head;
-
-        while(curr != null){
-            ListNode forward = curr.next;
-            curr.next = prev;
-            prev= curr;
-            curr = forward;
-        }
-
-        // updated head 
-        return prev;
+        ListNode ans = solve(prev,curr);
+        return ans;
         
     }
 }

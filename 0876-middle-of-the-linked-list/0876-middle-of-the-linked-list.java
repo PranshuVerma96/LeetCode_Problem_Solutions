@@ -10,21 +10,19 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int size =0;
-        ListNode temp = head;
+        ListNode fast = head;
+        ListNode slow = head; 
 
-        // traversal
-        while(temp !=null){
-            size++;
-            temp = temp.next;
+        while(fast != null){
+            // fast ko ek bar age cala do 
+            fast = fast.next;
+            // phir check karo fast null to nahi ho gaya
+            if(fast != null){
+                fast = fast.next;
+                slow = slow.next;
+            }
         }
-
-        // step 2 second mille ke liye 
-        int middle = size/2;
-        temp = head;
-        for(int i=0; i<middle; i++){
-            temp = temp.next;
-        }
-        return temp;
+        // pura process hone ke bad slow mid per hoga 
+        return slow;
     }
 }

@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0443-string-compression) |

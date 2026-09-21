@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0160-intersection-of-two-linked-lists) |

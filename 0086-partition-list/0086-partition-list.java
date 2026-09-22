@@ -9,40 +9,44 @@
  * }
  */class Solution {
     public ListNode partition(ListNode head, int x) {
-
-        // Dummy nodes
+        // Dummy Node 
         ListNode lesserHead = new ListNode(-1);
         ListNode lesserTail = lesserHead;
 
+        //Dummy Node 
         ListNode greaterHead = new ListNode(-1);
         ListNode greaterTail = greaterHead;
 
         ListNode temp = head;
 
-        while (temp != null) {
-
-            ListNode nodeToInsert = temp;
-            temp = temp.next;
-            nodeToInsert.next = null;
-
-            if (nodeToInsert.val < x) {
-
-                // Add to lesser list
+        while(temp != null){
+            if(temp.val < x){
+                // separate this node and append to lesser wali linked list 
+                // also before doing this. make sure temp points to the head of remaing list
+                ListNode nodeToInsert = temp;
+                temp = temp.next;
+                nodeToInsert.next = null;
+                // insert at tail 
                 lesserTail.next = nodeToInsert;
                 lesserTail = nodeToInsert;
 
-            } else {
-
-                // Add to greater list
+            }else{
+                ListNode nodeToInsert = temp;
+                temp = temp.next;
                 greaterTail.next = nodeToInsert;
                 greaterTail = nodeToInsert;
             }
         }
+    // yaha per haumari dono sub list ready he 
+    // join them
+    lesserTail.next = greaterHead.next;
+    greaterTail.next = null;
 
-        // Join both lists
-        lesserTail.next = greaterHead.next;
+    // remove starting wail node 
+    lesserHead = lesserHead.next;
 
-        // Return actual head, not dummy node
-        return lesserHead.next;
+    // return 
+    return lesserHead;
+       
     }
 }

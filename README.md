@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0069-sqrtx) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0061-rotate-list) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0206-reverse-linked-list) |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0069-sqrtx) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

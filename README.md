@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0069-sqrtx) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |

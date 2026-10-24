@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |

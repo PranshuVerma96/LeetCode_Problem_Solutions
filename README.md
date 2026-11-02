@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

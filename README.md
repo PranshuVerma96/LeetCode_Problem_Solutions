@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1019-next-greater-node-in-linked-list) |

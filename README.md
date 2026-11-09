@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0217-contains-duplicate) |
 | [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/3536-maximum-product-of-two-digits) |

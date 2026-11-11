@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0069-sqrtx) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |

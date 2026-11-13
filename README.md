@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0912-sort-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |

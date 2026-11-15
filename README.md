@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0901-online-stock-span) |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/1472-design-browser-history) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PranshuVerma96/LeetCode_Problem_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ class Solution {
              l1 = l1.next;
         }
 
+
         if(l2 != null){
           sum += l2.val;
          l2 = l2.next;
